@@ -1113,7 +1113,7 @@
 						
 						color: rgb(255, 255, 255);
 						
-		    			-webkit-filter: grayscale(100%) brightness(0.6);	
+		    			-webkit-filter:none;filter:none;	
 		}
 	 .style-d7daaec5-wbviiawb .style-d7daaec5-ywj7pubm .preview-subtitle-holder  {
 		
@@ -1129,9 +1129,9 @@
 		
 						padding-left: 6%;
 						
-						padding-right: 6%;
-						
 						width: 88%;
+						
+						padding-right: 6%;
 							
 		}
 	 .style-d7daaec5-wbviiawb .style-d7daaec5-ywj7pubm .background-div  {
@@ -1143,7 +1143,7 @@
 							
 		}
 	 .style-d7daaec5-wbviiawb .style-d7daaec5-ywj7pubm .preview-title  ,  .style-d7daaec5-wbviiawb .style-d7daaec5-ywj7pubm .preview-body h1  { 
-						font-family: 'Playfair Display';
+						line-height: 1.1em;
 						font-size:calc( 10px + ( 34rem - 10rem ) );
 						text-transform: uppercase;
 						
@@ -1155,13 +1155,13 @@
 						
 						margin-bottom: 10px;
 						
-						line-height: 1.1em;
+						font-family: 'Playfair Display';
 						
 						background-color: rgba(255, 255, 255, 0);
 							
 		}
 	 .style-d7daaec5-wbviiawb .style-d7daaec5-ywj7pubm .preview-item-links span  ,  .style-d7daaec5-wbviiawb .style-d7daaec5-ywj7pubm #sr-basket-widget *  { 
-						font-family: Arial;
+						border-width: 0px;
 						font-size:calc( 10px + ( 10rem - 10rem ) );
 						text-transform: uppercase;
 						
@@ -1185,7 +1185,7 @@
 						
 						margin-bottom: 10px;
 						
-						border-width: 0px;
+						font-family: Arial;
 						
 						background-color: rgb(125, 34, 34);
 						
@@ -1201,9 +1201,9 @@
 		}
 	 .style-d7daaec5-wbviiawb .style-d7daaec5-ywj7pubm .preview-element.icon-source  {
 		
-						width: 70px;
-						
 						margin-bottom: 15px;
+						
+						width: 70px;
 							
 		}
 	 .style-d7daaec5-wbviiawb .style-d7daaec5-ywj7pubm .background-image-div  {
@@ -1254,7 +1254,7 @@
 		}
 	 .style-d7daaec5-wbviiawb .style-d7daaec5-ywj7pubm .preview-body  {
 		
-						font-family: Arial;
+						line-height: 1.6em;
 						font-size:calc( 10px + ( 14rem - 10rem ) );
 						color: rgb(230, 230, 230);
 						
@@ -1264,7 +1264,7 @@
 						
 						margin-bottom: 30px;
 						
-						line-height: 1.6em;
+						font-family: Arial;
 							
 		}
 	
@@ -1280,7 +1280,7 @@
 							
 		}
 	 .style-d7daaec5-wbviiawb .style-d7daaec5-ywj7pubm .preview-subtitle  ,  .style-d7daaec5-wbviiawb .style-d7daaec5-ywj7pubm .preview-body h2  { 
-						line-height: 1.4em;
+						font-family: Abel;
 						font-size:calc( 10px + ( 14rem - 10rem ) );
 						text-transform: uppercase;
 						
@@ -1296,7 +1296,7 @@
 						
 						margin-bottom: 10px;
 						
-						font-family: Abel;
+						line-height: 1.4em;
 							
 		}
 
@@ -1307,6 +1307,10 @@
  .style-d7daaec5-ywj7pubm #vbid-d7daaec5-wsafux3i .preview-content-holder{
 				
 							text-align : left;
+					
+				} .style-d7daaec5-ywj7pubm #vbid-27a45dc7-2bfethab .preview-content-holder{
+				
+							text-align : center;
 					
 				} .style-d7daaec5-ywj7pubm #vbid-d7daaec5-aywx1trv .preview-content-holder{
 				
@@ -1319,13 +1323,17 @@
 				
 							background-position : 40.6865% 31.5728%;
 					
+				} .style-d7daaec5-ywj7pubm #vbid-27a45dc7-ytliktny.inner-pic{
+				
+							background-position : 51.7764% 40.3226%;
+					
 				} .style-d7daaec5-ywj7pubm #vbid-d7daaec5-wkv5l7jq.inner-pic{
 				
 							background-position : 47.0449% 12.9383%;
 					
-				} .style-d7daaec5-ywj7pubm #vbid-d7daaec5-gg08pjkc.inner-pic{
+				} .style-d7daaec5-ywj7pubm #vbid-d7daaec5-snhaizqj.inner-pic{
 				
-							background-position : 51.7764% 40.3226%;
+							background-size : 143%;
 					
 				} .style-d7daaec5-ywj7pubm #vbid-d7daaec5-kxpodxqd.inner-pic{
 				
@@ -1333,9 +1341,9 @@
 					
 							background-position : 31.5622% 47.7852%;
 					
-				} .style-d7daaec5-ywj7pubm #vbid-d7daaec5-snhaizqj.inner-pic{
+				} .style-d7daaec5-ywj7pubm #vbid-d7daaec5-gg08pjkc.inner-pic{
 				
-							background-size : 143%;
+							background-position : 51.7764% 40.3226%;
 					
 				} .style-d7daaec5-ywj7pubm #vbid-d7daaec5-qejivbzw.inner-pic{
 				
@@ -1370,6 +1378,10 @@
  .style-d7daaec5-ywj7pubm #vbid-d7daaec5-wsafux3i .preview-content-wrapper{
 				
 							text-align : left;
+					
+				} .style-d7daaec5-ywj7pubm #vbid-27a45dc7-2bfethab .preview-content-wrapper{
+				
+							text-align : center;
 					
 				} .style-d7daaec5-ywj7pubm #vbid-d7daaec5-aywx1trv .preview-content-wrapper{
 				
